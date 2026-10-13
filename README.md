@@ -7,3 +7,5 @@ This assignment continues [Week 1](https://github.com/flappybird69/week1-financi
 - [`requirements.txt`](requirements.txt) — Python dependencies for rerunning the notebook.
 
 The notebook embeds its frozen inputs, so it can be run offline with a standard Python 3 kernel. Use **Restart & Run All** to regenerate the results. SPY's E4 stability result is **N/A** because its market self-regression is an exact identity.
+
+Continued in [Week 4: Time-Series Forecasting](https://github.com/flappybird69/week4-time-series-forecasting-ioannis-tzalas).
